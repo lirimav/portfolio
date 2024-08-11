@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.1bb6aff3.css",
-    "main.js": "/portfolio/static/js/main.289a1961.js",
+    "main.css": "/portfolio/static/css/main.d3008723.css",
+    "main.js": "/portfolio/static/js/main.82ea98ea.js",
     "static/media/planeb.png": "/portfolio/static/media/planeb.012872637b88da06f988.png",
     "static/media/planew.png": "/portfolio/static/media/planew.9fedbf51368600ea94e6.png",
     "static/media/planewmb.png": "/portfolio/static/media/planewmb.e91208a5ed83b5282e93.png",
     "static/media/planebmb.png": "/portfolio/static/media/planebmb.e384fae638fd47e25948.png",
-    "static/media/limi.webp": "/portfolio/static/media/limi.c92d9ea296bfbeb2bf23.webp",
+    "static/media/profile.webp": "/portfolio/static/media/profile.c92d9ea296bfbeb2bf23.webp",
+    "static/media/C.png": "/portfolio/static/media/C.766c48210078f0dd2fa1.png",
     "static/media/Sen-Regular.ttf": "/portfolio/static/media/Sen-Regular.b4bcdfa9125d1221a0e3.ttf",
     "static/media/logob.png": "/portfolio/static/media/logob.bf3abda0bb65bd68cdf5.png",
     "static/media/logow.png": "/portfolio/static/media/logow.154113f7b7a06d7a56dd.png",
-    "static/media/limisBgb.svg": "/portfolio/static/media/limisBgb.972696f919377d485999.svg",
-    "static/media/limisBgw.svg": "/portfolio/static/media/limisBgw.c26022d7c269210db634.svg",
+    "static/media/profileBgb.svg": "/portfolio/static/media/profileBgb.972696f919377d485999.svg",
+    "static/media/profileBgw.svg": "/portfolio/static/media/profileBgw.c26022d7c269210db634.svg",
     "index.html": "/portfolio/index.html",
-    "main.1bb6aff3.css.map": "/portfolio/static/css/main.1bb6aff3.css.map",
-    "main.289a1961.js.map": "/portfolio/static/js/main.289a1961.js.map"
+    "main.d3008723.css.map": "/portfolio/static/css/main.d3008723.css.map",
+    "main.82ea98ea.js.map": "/portfolio/static/js/main.82ea98ea.js.map"
   },
   "entrypoints": [
-    "static/css/main.1bb6aff3.css",
-    "static/js/main.289a1961.js"
+    "static/css/main.d3008723.css",
+    "static/js/main.82ea98ea.js"
   ]
 }
