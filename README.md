@@ -1,6 +1,6 @@
 # Personal Portfolio
 
-Welcome to my portfolio! This repository contains the code for my personal website, which I built using React, Node.js, and Tailwind CSS. The website is designed to showcase my skills, experience, and profile as a front-end developer.
+Welcome to my portfolio! This repository contains the code for my personal website, which I built using React and Node.js. The website is designed to showcase my skills, experience, and profile as a front-end developer.
 
 ## Features
 
@@ -13,8 +13,6 @@ Welcome to my portfolio! This repository contains the code for my personal websi
 
 * React
 * Node.js
-* Tailwind CSS
-* GitHub Pages (for hosting)
 
 ## Contact
 
